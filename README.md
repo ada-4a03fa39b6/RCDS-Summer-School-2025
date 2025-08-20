@@ -4,15 +4,13 @@
 ---
 
 ## Welcome!
-Welcome to the [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/) Summer School 2023! We are delighted to have you with us for a week. Please check the schedule below.
+Welcome to the [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/) Summer School 2024! We are delighted to have you with us for a week. Please check the schedule below.
 
-<img src="RCDS_summer_school_overview.png" alt="schedule" width="600"/>
+<!-- <img src="RCDS_summer_school_overview.png" alt="schedule" width="600"/> -->
 
-Your [teaching staff](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/meet-the-team/).
+Your [teaching staff](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/meet-the-team/).
 
 We will use this [document](https://docs.google.com/document/d/1F0KwAudaHwi-E_zTldOAD_0bz4jzz6WJFt3h889yhNw/edit) to share links and other essential info.
-
-At the start of the course, please fill in this [Mentimeter survey](https://www.menti.com/al6qxrmpd3mt).
 
 The learning materials are organised by day in this repository. The lessons use Jupyter Notebooks that can be easily open in GitHub Codespaces (instructions in the next section). If you have some experience with Jupyter Notebooks, you can use your favourite application - just make sure that you have the required packages installed (these are listed in the file [requirements.txt](requirements.txt)). If the last sentence does not make sense, do not worry, it will at the end of the week.
 
@@ -39,7 +37,8 @@ The text cells in Notebooks are prepared using [Markdown](https://jupyter-notebo
 ---
 
 ## Feedback
+
 We need your help to make the summer school better next year!
-At the end of the course, please fill in our [Mentimeter feedback poll](https://www.menti.com/alnny9tmn8ki) before you leave today (it will only take 3 minutes):
+At the end of the course, please fill in our [Mentimeter feedback poll]() before you leave today (it will only take 3 minutes):
 
 
