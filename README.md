@@ -4,7 +4,7 @@
 ---
 
 ## Welcome!
-Welcome to the [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/) Summer School 2024! We are delighted to have you with us for a week. Please check the schedule below.
+Welcome to the [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/) Summer School 2025! We are delighted to have you with us for a week. Please check the schedule below.
 
 <!-- <img src="RCDS_summer_school_overview.png" alt="schedule" width="600"/> -->
 
